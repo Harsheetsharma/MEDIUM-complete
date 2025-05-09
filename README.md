@@ -20,7 +20,7 @@ This repository (`MEDIUM-complete`) serves as the central monorepo, housing **sh
 
 - 🖥️ **Backend Repository:**  
   [→ View on GitHub](https://github.com/Harsheetsharma/MEDIUM-project-backend)  
-  Built using **Node.js**, **Express.js**, **Postgres**,**Prisma as ORM**, and **JWT** for authentication.
+  Built using **Node.js**, **Hono**, **Postgres**,**Prisma as ORM**, and **JWT** for authentication.
 
 ---
 
@@ -31,17 +31,17 @@ This repository (`MEDIUM-complete`) serves as the central monorepo, housing **sh
 - 🧠 Rich-text editor for writing
 - 📖 View all blogs or a single blog
 - 📱 Fully responsive UI
-- ⚡ Fast API performance using Postgres & Express
+- ⚡ Fast API performance using Postgres & Hono(express library)
 
 ---
 
 ## 🧑‍💻 Technologies Used
 
-| Layer     | Tech Stack                                |
-|-----------|-------------------------------------------|
-| Frontend  | React.js, Tailwind CSS, TypeScript,       |
-| Backend   | Node.js, Express.js, Postgres, JWT        |
-| Common    | TypeScript Interfaces, Constants          |
+| Layer     | Tech Stack                                           |
+|-----------|------------------------------------------------------|
+| Frontend  | React.js, Tailwind CSS, TypeScript,                  |
+| Backend   | Node.js, Hono(express library), Postgres, JWT        |
+| Common    | TypeScript Interfaces, Constants                     |
 
 ---
 
