@@ -16,11 +16,11 @@ This repository (`MEDIUM-complete`) serves as the central monorepo, housing **sh
 
 - 🌐 **Frontend Repository:**  
   [→ View on GitHub](https://github.com/Harsheetsharma/MEDIUM-project-frontend)  
-  Built using **Next.js**, **Tailwind CSS**, and **TypeScript**.
+  Built using **React.js**, **Tailwind CSS**, and **TypeScript**.
 
 - 🖥️ **Backend Repository:**  
   [→ View on GitHub](https://github.com/Harsheetsharma/MEDIUM-project-backend)  
-  Built using **Node.js**, **Express.js**, **MongoDB**, and **JWT** for authentication.
+  Built using **Node.js**, **Express.js**, **Postgres**,**Prisma as ORM**, and **JWT** for authentication.
 
 ---
 
@@ -31,16 +31,16 @@ This repository (`MEDIUM-complete`) serves as the central monorepo, housing **sh
 - 🧠 Rich-text editor for writing
 - 📖 View all blogs or a single blog
 - 📱 Fully responsive UI
-- ⚡ Fast API performance using MongoDB & Express
+- ⚡ Fast API performance using Postgres & Express
 
 ---
 
 ## 🧑‍💻 Technologies Used
 
-| Layer     | Tech Stack                               |
+| Layer     | Tech Stack                                |
 |-----------|-------------------------------------------|
-| Frontend  | Next.js, Tailwind CSS, TypeScript, Lucide |
-| Backend   | Node.js, Express.js, MongoDB, JWT         |
+| Frontend  | React.js, Tailwind CSS, TypeScript,       |
+| Backend   | Node.js, Express.js, Postgres, JWT        |
 | Common    | TypeScript Interfaces, Constants          |
 
 ---
