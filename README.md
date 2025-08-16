@@ -4,6 +4,7 @@ Welcome to the **Medium Clone** project – a full-stack blogging platform inspi
 
 This repository (`MEDIUM-complete`) serves as the central monorepo, housing **shared/common code** and linking to the full **frontend** and **backend** codebases.
 
+
 ---
 
 ## 📦 Repository Structure
