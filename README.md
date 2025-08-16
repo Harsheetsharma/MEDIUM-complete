@@ -1,7 +1,65 @@
-# Medium Project (Complete)
+# 📰 Medium Clone – Monorepo Structure (Frontend + Backend + Common)
 
-This is the full project structure:
+Welcome to the **Medium Clone** project – a full-stack blogging platform inspired by [Medium](https://medium.com), designed for writing and reading rich blog content.
 
-- 🔗 [Frontend Code](https://github.com/Harsheetsharma/MEDIUM-project-frontend)
-- 🔗 [Backend Code](https://github.com/Harsheetsharma/MEDIUM-project-backend)
-- 📁 Common utilities are inside this repo (see `common/` folder).
+This repository (`MEDIUM-complete`) serves as the central monorepo, housing **shared/common code** and linking to the full **frontend** and **backend** codebases.
+
+---
+
+## 📦 Repository Structure
+
+> The `frontend` and `backend` code are hosted in **separate repositories** linked below.
+
+---
+
+## 🔗 Sub-Repositories
+
+- 🌐 **Frontend Repository:**  
+  [→ View on GitHub](https://github.com/Harsheetsharma/MEDIUM-project-frontend)  
+  Built using **React.js**, **Tailwind CSS**, and **TypeScript**.
+
+- 🖥️ **Backend Repository:**  
+  [→ View on GitHub](https://github.com/Harsheetsharma/MEDIUM-project-backend)  
+  Built using **Node.js**, **Hono**, **Postgres**,**Prisma as ORM**, and **JWT** for authentication.
+
+---
+
+## ✨ Features
+
+- 🔐 User Authentication (Sign Up, Sign In, JWT)
+- 📝 Create, Edit, Delete, and Read Blogs
+- 🧠 Rich-text editor for writing
+- 📖 View all blogs or a single blog
+- 📱 Fully responsive UI
+- ⚡ Fast API performance using Postgres & Hono(express library)
+
+---
+
+## 🧑‍💻 Technologies Used
+
+| Layer     | Tech Stack                                           |
+|-----------|------------------------------------------------------|
+| Frontend  | React.js, Tailwind CSS, TypeScript,                  |
+| Backend   | Node.js, Hono(express library), Postgres, JWT        |
+| Common    | TypeScript Interfaces, Constants                     |
+
+---
+
+## 📂 Setup Guide
+
+To run this project locally, you'll need to clone and run the backend and frontend repositories separately.
+
+### 1. Clone the repositories:
+
+```bash
+# Clone backend
+git clone https://github.com/Harsheetsharma/MEDIUM-project-backend.git
+
+# Clone frontend
+git clone https://github.com/Harsheetsharma/MEDIUM-project-frontend.git
+
+🧾 License
+This project is licensed under the MIT License.
+🙋‍♂️ Author
+Harsheet Sharma
+https://github.com/Harsheetsharma
